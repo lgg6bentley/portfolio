@@ -1,16 +1,15 @@
 ## 🌟 Portfolio Website
-
-This is a portfolio website built entirely from scratch, showcasing my skills and projects. It was created with pure **HTML**, **Tailwind CSS**, and **JavaScript** for functionality.
+ 
+ This is a portfolio website built entirely from scratch, showcasing my skills and projects. It was created with pure **HTML** and **Tailwind CSS** for styling.
 
 ### ✨ Features
 - **Responsive Design**: Built with Tailwind CSS to ensure the site looks great on any device.
-- **Custom Interactivity**: Implemented various interactive features using `scripts.js`.
+ 
 - **Minimalist Aesthetic**: Clean and modern design for a professional presentation.
 
 ### 🛠️ Tech Stack
 - **HTML**: Structured the content and layout of the site.
 - **Tailwind CSS**: Styled the website with a utility-first CSS framework.
-- **JavaScript**: Added interactivity and dynamic behaviors.
 
 ### 🚀 Live Demo
 Check out the live version of the site: [Portfolio Website](https://lgg6bentley.github.io/portfolio)
