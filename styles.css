@@ -1,0 +1,14 @@
+.bg-gray-200:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 15px rgba(72, 20, 121, 0.914);
+    transition: all 0.3s ease-in-out;
+}
+.project-card:nth-child(1) {
+    background: linear-gradient(to right, #ff7eb3, #ff758c);
+}
+.project-card:nth-child(2) {
+    background: linear-gradient(to right, #a18cd1, #fbc2eb);
+}
+.project-card:nth-child(3) {
+    background: linear-gradient(to right, #89f7fe, #66a6ff);
+}
